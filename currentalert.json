@@ -1,0 +1,49 @@
+
+{
+  "response": {
+  "version":"0.1",
+  "termsofService":"http://www.wunderground.com/weather/api/d/terms.html",
+  "features": {
+  "alerts": 1
+  }
+	}
+		,"query_zone": "001",
+	"alerts": [
+		{
+		"type": "WAT",
+		"description": "Coastal Hazard Statement",
+		"date": "4:58 am AST on February 23, 2016",
+		"date_epoch": "1456217880",
+		"expires": "5:00 AM AST on February 24, 2016",
+		"expires_epoch": "1456304400",
+		"tz_short":"AST",
+		"tz_long":"America/Puerto_Rico",
+		"message": "\u000A...High rip current risk remains in effect through late tonight...\u000A...High surf advisory is cancelled...\u000A\u000AThe National Weather Service in San Juan has cancelled the high\u000Asurf advisory. \u000A\u000A* Breaking waves...between 5 and 8 feet.\u000A\u000A* Location...beaches along the Atlantic coastline of northern \u000A Puerto Rico. \u000A\u000A* Timing...high rip current risk through late tonight.\u000A\u000A* Impacts...conditions hazardous to swimming.\u000A\u000APrecautionary/preparedness actions...\u000A\u000AThere is a high risk of rip currents.\u000A\u000ARip currents are powerful channels of water flowing quickly away\u000Afrom shore...which occur most often at low spots or breaks in The\u000ASandbar and in the vicinity of structures such as groins...\u000Ajetties and piers. Heed the advice of lifeguards...beach patrol\u000Aflags and signs.\u000A\u000AIf you become caught in a rip current...Yell for help. Remain\u000Acalm...do not exhaust yourself and stay afloat while waiting for\u000Ahelp. If you have to swim out of a rip current...swim parallel to\u000Ashore and back toward the beach when possible. Do not attempt to\u000Aswim directly against a rip current as you will tire quickly. \u000A\u000A\u000A\u000A\u000A\u000A\u000A",
+		"phenomena": "RP",
+		"significance": "S",
+		"ZONES": [
+		{
+		"state":"PR",
+		"ZONE":"001"
+		}
+		,
+		{
+		"state":"PR",
+		"ZONE":"002"
+		}
+		,
+		{
+		"state":"PR",
+		"ZONE":"005"
+		}
+		,
+		{
+		"state":"PR",
+		"ZONE":"008"
+		}
+		],
+		"StormBased": {
+		}
+		}
+	]
+}

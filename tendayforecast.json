@@ -1,0 +1,960 @@
+
+{
+  "response": {
+  "version":"0.1",
+  "termsofService":"http://www.wunderground.com/weather/api/d/terms.html",
+  "features": {
+  "forecast10day": 1
+  }
+	}
+		,
+	"forecast":{
+		"txt_forecast": {
+		"date":"4:07 PM AST",
+		"forecastday": [
+		{
+		"period":0,
+		"icon":"chancerain",
+		"icon_url":"http://icons.wxug.com/i/c/k/chancerain.gif",
+		"title":"Monday",
+		"fcttext":"Showers possible early. Lows overnight in the low 70s.",
+		"fcttext_metric":"Showers ending early. Low 22C.",
+		"pop":"40"
+		}
+		,
+		{
+		"period":1,
+		"icon":"nt_chancerain",
+		"icon_url":"http://icons.wxug.com/i/c/k/nt_chancerain.gif",
+		"title":"Monday Night",
+		"fcttext":"Showers early, then clearing overnight. Low 72F. Winds SE at 5 to 10 mph. Chance of rain 40%.",
+		"fcttext_metric":"Rain showers this evening with mostly clear conditions overnight. Low 22C. Winds SSE at 10 to 15 km/h. Chance of rain 40%.",
+		"pop":"40"
+		}
+		,
+		{
+		"period":2,
+		"icon":"clear",
+		"icon_url":"http://icons.wxug.com/i/c/k/clear.gif",
+		"title":"Tuesday",
+		"fcttext":"Sunshine along with some cloudy intervals. High around 85F. Winds ESE at 10 to 15 mph.",
+		"fcttext_metric":"Sun and a few passing clouds. High near 30C. Winds ESE at 15 to 25 km/h.",
+		"pop":"10"
+		}
+		,
+		{
+		"period":3,
+		"icon":"nt_clear",
+		"icon_url":"http://icons.wxug.com/i/c/k/nt_clear.gif",
+		"title":"Tuesday Night",
+		"fcttext":"Clear skies with a few passing clouds. Low 74F. Winds ESE at 5 to 10 mph.",
+		"fcttext_metric":"Mostly clear skies. Low 23C. Winds ESE at 10 to 15 km/h.",
+		"pop":"10"
+		}
+		,
+		{
+		"period":4,
+		"icon":"clear",
+		"icon_url":"http://icons.wxug.com/i/c/k/clear.gif",
+		"title":"Wednesday",
+		"fcttext":"A few clouds from time to time. High around 85F. Winds ESE at 10 to 20 mph.",
+		"fcttext_metric":"A few clouds from time to time. High 29C. Winds ESE at 15 to 30 km/h.",
+		"pop":"20"
+		}
+		,
+		{
+		"period":5,
+		"icon":"nt_clear",
+		"icon_url":"http://icons.wxug.com/i/c/k/nt_clear.gif",
+		"title":"Wednesday Night",
+		"fcttext":"Mostly clear skies. Low 73F. Winds ESE at 10 to 15 mph.",
+		"fcttext_metric":"Mostly clear skies. Low 22C. Winds ESE at 10 to 15 km/h.",
+		"pop":"20"
+		}
+		,
+		{
+		"period":6,
+		"icon":"partlycloudy",
+		"icon_url":"http://icons.wxug.com/i/c/k/partlycloudy.gif",
+		"title":"Thursday",
+		"fcttext":"Some clouds in the morning will give way to mainly sunny skies for the afternoon. High near 85F. Winds E at 10 to 20 mph.",
+		"fcttext_metric":"Some clouds in the morning will give way to mainly sunny skies for the afternoon. High near 30C. Winds E at 15 to 30 km/h.",
+		"pop":"20"
+		}
+		,
+		{
+		"period":7,
+		"icon":"nt_clear",
+		"icon_url":"http://icons.wxug.com/i/c/k/nt_clear.gif",
+		"title":"Thursday Night",
+		"fcttext":"Mostly clear. Low 72F. Winds ESE at 5 to 10 mph.",
+		"fcttext_metric":"A mostly clear sky. Low 22C. Winds ESE at 10 to 15 km/h.",
+		"pop":"20"
+		}
+		,
+		{
+		"period":8,
+		"icon":"chancerain",
+		"icon_url":"http://icons.wxug.com/i/c/k/chancerain.gif",
+		"title":"Friday",
+		"fcttext":"A mix of clouds and sun in the morning giving way to a few showers during the afternoon. High 83F. Winds ESE at 10 to 15 mph. Chance of rain 30%.",
+		"fcttext_metric":"Partly cloudy. High 29C. Winds ESE at 15 to 25 km/h.",
+		"pop":"30"
+		}
+		,
+		{
+		"period":9,
+		"icon":"nt_clear",
+		"icon_url":"http://icons.wxug.com/i/c/k/nt_clear.gif",
+		"title":"Friday Night",
+		"fcttext":"Mostly clear. Low 72F. Winds ESE at 5 to 10 mph.",
+		"fcttext_metric":"Mostly clear. Low 22C. Winds SE at 10 to 15 km/h.",
+		"pop":"10"
+		}
+		,
+		{
+		"period":10,
+		"icon":"clear",
+		"icon_url":"http://icons.wxug.com/i/c/k/clear.gif",
+		"title":"Saturday",
+		"fcttext":"Sunny. High 84F. Winds ESE at 10 to 15 mph.",
+		"fcttext_metric":"A few clouds from time to time. High 29C. Winds ESE at 15 to 25 km/h.",
+		"pop":"10"
+		}
+		,
+		{
+		"period":11,
+		"icon":"nt_clear",
+		"icon_url":"http://icons.wxug.com/i/c/k/nt_clear.gif",
+		"title":"Saturday Night",
+		"fcttext":"Mostly clear. Low 72F. Winds SE at 5 to 10 mph.",
+		"fcttext_metric":"Mostly clear. Low 22C. Winds SE at 10 to 15 km/h.",
+		"pop":"10"
+		}
+		,
+		{
+		"period":12,
+		"icon":"clear",
+		"icon_url":"http://icons.wxug.com/i/c/k/clear.gif",
+		"title":"Sunday",
+		"fcttext":"A mainly sunny sky. High around 85F. Winds ESE at 10 to 15 mph.",
+		"fcttext_metric":"Sunny skies. High around 30C. Winds ESE at 15 to 25 km/h.",
+		"pop":"10"
+		}
+		,
+		{
+		"period":13,
+		"icon":"nt_clear",
+		"icon_url":"http://icons.wxug.com/i/c/k/nt_clear.gif",
+		"title":"Sunday Night",
+		"fcttext":"Clear skies. Low 72F. Winds SE at 5 to 10 mph.",
+		"fcttext_metric":"Clear skies. Low 22C. Winds SE at 10 to 15 km/h.",
+		"pop":"20"
+		}
+		,
+		{
+		"period":14,
+		"icon":"clear",
+		"icon_url":"http://icons.wxug.com/i/c/k/clear.gif",
+		"title":"Monday",
+		"fcttext":"Except for a few afternoon clouds, mainly sunny. High 84F. Winds E at 10 to 15 mph.",
+		"fcttext_metric":"Sunny along with a few clouds. High 29C. Winds E at 10 to 15 km/h.",
+		"pop":"20"
+		}
+		,
+		{
+		"period":15,
+		"icon":"nt_clear",
+		"icon_url":"http://icons.wxug.com/i/c/k/nt_clear.gif",
+		"title":"Monday Night",
+		"fcttext":"Clear skies. Low 72F. Winds ESE at 5 to 10 mph.",
+		"fcttext_metric":"A mostly clear sky. Low 22C. Winds ESE at 10 to 15 km/h.",
+		"pop":"20"
+		}
+		,
+		{
+		"period":16,
+		"icon":"clear",
+		"icon_url":"http://icons.wxug.com/i/c/k/clear.gif",
+		"title":"Tuesday",
+		"fcttext":"Sunny. High 84F. Winds ENE at 10 to 15 mph.",
+		"fcttext_metric":"Generally sunny. High 29C. Winds ENE at 15 to 25 km/h.",
+		"pop":"20"
+		}
+		,
+		{
+		"period":17,
+		"icon":"nt_clear",
+		"icon_url":"http://icons.wxug.com/i/c/k/nt_clear.gif",
+		"title":"Tuesday Night",
+		"fcttext":"A mostly clear sky. Low 73F. Winds ENE at 5 to 10 mph.",
+		"fcttext_metric":"Mostly clear skies. Low 22C. Winds ENE at 10 to 15 km/h.",
+		"pop":"20"
+		}
+		,
+		{
+		"period":18,
+		"icon":"chancerain",
+		"icon_url":"http://icons.wxug.com/i/c/k/chancerain.gif",
+		"title":"Wednesday",
+		"fcttext":"Mostly sunny in the morning. Increasing clouds with showers later in the day. High 84F. Winds ENE at 10 to 15 mph. Chance of rain 40%.",
+		"fcttext_metric":"Mostly sunny in the morning. Increasing clouds with showers later in the day. High 29C. Winds ENE at 15 to 25 km/h. Chance of rain 40%.",
+		"pop":"40"
+		}
+		,
+		{
+		"period":19,
+		"icon":"nt_chancerain",
+		"icon_url":"http://icons.wxug.com/i/c/k/nt_chancerain.gif",
+		"title":"Wednesday Night",
+		"fcttext":"Rain showers early with clearing later at night. Low 72F. Winds ENE at 5 to 10 mph. Chance of rain 40%.",
+		"fcttext_metric":"Rain showers early with clearing later at night. Low 22C. Winds ENE at 10 to 15 km/h. Chance of rain 40%.",
+		"pop":"40"
+		}
+		]
+		},
+		"simpleforecast": {
+		"forecastday": [
+		{"date":{
+	"epoch":"1456182000",
+	"pretty":"7:00 PM AST on February 22, 2016",
+	"day":22,
+	"month":2,
+	"year":2016,
+	"yday":52,
+	"hour":19,
+	"min":"00",
+	"sec":0,
+	"isdst":"0",
+	"monthname":"February",
+	"monthname_short":"Feb",
+	"weekday_short":"Mon",
+	"weekday":"Monday",
+	"ampm":"PM",
+	"tz_short":"AST",
+	"tz_long":"America/Puerto_Rico"
+},
+		"period":1,
+		"high": {
+		"fahrenheit":"87",
+		"celsius":"30"
+		},
+		"low": {
+		"fahrenheit":"72",
+		"celsius":"22"
+		},
+		"conditions":"Chance of Rain",
+		"icon":"chancerain",
+		"icon_url":"http://icons.wxug.com/i/c/k/chancerain.gif",
+		"skyicon":"",
+		"pop":40,
+		"qpf_allday": {
+		"in": 0.01,
+		"mm": 0
+		},
+		"qpf_day": {
+		"in": null,
+		"mm": null
+		},
+		"qpf_night": {
+		"in": 0.01,
+		"mm": 0
+		},
+		"snow_allday": {
+		"in": 0.0,
+		"cm": 0.0
+		},
+		"snow_day": {
+		"in": null,
+		"cm": null
+		},
+		"snow_night": {
+		"in": 0.0,
+		"cm": 0.0
+		},
+		"maxwind": {
+		"mph": 15,
+		"kph": 24,
+		"dir": "",
+		"degrees": 0
+		},
+		"avewind": {
+		"mph": 2,
+		"kph": 3,
+		"dir": "ENE",
+		"degrees": 67
+		},
+		"avehumidity": 81,
+		"maxhumidity": 0,
+		"minhumidity": 0
+		}
+		,
+		{"date":{
+	"epoch":"1456268400",
+	"pretty":"7:00 PM AST on February 23, 2016",
+	"day":23,
+	"month":2,
+	"year":2016,
+	"yday":53,
+	"hour":19,
+	"min":"00",
+	"sec":0,
+	"isdst":"0",
+	"monthname":"February",
+	"monthname_short":"Feb",
+	"weekday_short":"Tue",
+	"weekday":"Tuesday",
+	"ampm":"PM",
+	"tz_short":"AST",
+	"tz_long":"America/Puerto_Rico"
+},
+		"period":2,
+		"high": {
+		"fahrenheit":"85",
+		"celsius":"29"
+		},
+		"low": {
+		"fahrenheit":"74",
+		"celsius":"23"
+		},
+		"conditions":"Clear",
+		"icon":"clear",
+		"icon_url":"http://icons.wxug.com/i/c/k/clear.gif",
+		"skyicon":"",
+		"pop":10,
+		"qpf_allday": {
+		"in": 0.00,
+		"mm": 0
+		},
+		"qpf_day": {
+		"in": 0.00,
+		"mm": 0
+		},
+		"qpf_night": {
+		"in": 0.00,
+		"mm": 0
+		},
+		"snow_allday": {
+		"in": 0.0,
+		"cm": 0.0
+		},
+		"snow_day": {
+		"in": 0.0,
+		"cm": 0.0
+		},
+		"snow_night": {
+		"in": 0.0,
+		"cm": 0.0
+		},
+		"maxwind": {
+		"mph": 15,
+		"kph": 24,
+		"dir": "ESE",
+		"degrees": 106
+		},
+		"avewind": {
+		"mph": 12,
+		"kph": 19,
+		"dir": "ESE",
+		"degrees": 106
+		},
+		"avehumidity": 68,
+		"maxhumidity": 0,
+		"minhumidity": 0
+		}
+		,
+		{"date":{
+	"epoch":"1456354800",
+	"pretty":"7:00 PM AST on February 24, 2016",
+	"day":24,
+	"month":2,
+	"year":2016,
+	"yday":54,
+	"hour":19,
+	"min":"00",
+	"sec":0,
+	"isdst":"0",
+	"monthname":"February",
+	"monthname_short":"Feb",
+	"weekday_short":"Wed",
+	"weekday":"Wednesday",
+	"ampm":"PM",
+	"tz_short":"AST",
+	"tz_long":"America/Puerto_Rico"
+},
+		"period":3,
+		"high": {
+		"fahrenheit":"85",
+		"celsius":"29"
+		},
+		"low": {
+		"fahrenheit":"73",
+		"celsius":"23"
+		},
+		"conditions":"Clear",
+		"icon":"clear",
+		"icon_url":"http://icons.wxug.com/i/c/k/clear.gif",
+		"skyicon":"",
+		"pop":20,
+		"qpf_allday": {
+		"in": 0.00,
+		"mm": 0
+		},
+		"qpf_day": {
+		"in": 0.00,
+		"mm": 0
+		},
+		"qpf_night": {
+		"in": 0.00,
+		"mm": 0
+		},
+		"snow_allday": {
+		"in": 0.0,
+		"cm": 0.0
+		},
+		"snow_day": {
+		"in": 0.0,
+		"cm": 0.0
+		},
+		"snow_night": {
+		"in": 0.0,
+		"cm": 0.0
+		},
+		"maxwind": {
+		"mph": 20,
+		"kph": 32,
+		"dir": "ESE",
+		"degrees": 109
+		},
+		"avewind": {
+		"mph": 14,
+		"kph": 23,
+		"dir": "ESE",
+		"degrees": 109
+		},
+		"avehumidity": 71,
+		"maxhumidity": 0,
+		"minhumidity": 0
+		}
+		,
+		{"date":{
+	"epoch":"1456441200",
+	"pretty":"7:00 PM AST on February 25, 2016",
+	"day":25,
+	"month":2,
+	"year":2016,
+	"yday":55,
+	"hour":19,
+	"min":"00",
+	"sec":0,
+	"isdst":"0",
+	"monthname":"February",
+	"monthname_short":"Feb",
+	"weekday_short":"Thu",
+	"weekday":"Thursday",
+	"ampm":"PM",
+	"tz_short":"AST",
+	"tz_long":"America/Puerto_Rico"
+},
+		"period":4,
+		"high": {
+		"fahrenheit":"85",
+		"celsius":"29"
+		},
+		"low": {
+		"fahrenheit":"72",
+		"celsius":"22"
+		},
+		"conditions":"Partly Cloudy",
+		"icon":"partlycloudy",
+		"icon_url":"http://icons.wxug.com/i/c/k/partlycloudy.gif",
+		"skyicon":"",
+		"pop":20,
+		"qpf_allday": {
+		"in": 0.00,
+		"mm": 0
+		},
+		"qpf_day": {
+		"in": 0.00,
+		"mm": 0
+		},
+		"qpf_night": {
+		"in": 0.00,
+		"mm": 0
+		},
+		"snow_allday": {
+		"in": 0.0,
+		"cm": 0.0
+		},
+		"snow_day": {
+		"in": 0.0,
+		"cm": 0.0
+		},
+		"snow_night": {
+		"in": 0.0,
+		"cm": 0.0
+		},
+		"maxwind": {
+		"mph": 20,
+		"kph": 32,
+		"dir": "E",
+		"degrees": 97
+		},
+		"avewind": {
+		"mph": 13,
+		"kph": 21,
+		"dir": "E",
+		"degrees": 97
+		},
+		"avehumidity": 67,
+		"maxhumidity": 0,
+		"minhumidity": 0
+		}
+		,
+		{"date":{
+	"epoch":"1456527600",
+	"pretty":"7:00 PM AST on February 26, 2016",
+	"day":26,
+	"month":2,
+	"year":2016,
+	"yday":56,
+	"hour":19,
+	"min":"00",
+	"sec":0,
+	"isdst":"0",
+	"monthname":"February",
+	"monthname_short":"Feb",
+	"weekday_short":"Fri",
+	"weekday":"Friday",
+	"ampm":"PM",
+	"tz_short":"AST",
+	"tz_long":"America/Puerto_Rico"
+},
+		"period":5,
+		"high": {
+		"fahrenheit":"83",
+		"celsius":"28"
+		},
+		"low": {
+		"fahrenheit":"72",
+		"celsius":"22"
+		},
+		"conditions":"Chance of Rain",
+		"icon":"chancerain",
+		"icon_url":"http://icons.wxug.com/i/c/k/chancerain.gif",
+		"skyicon":"",
+		"pop":30,
+		"qpf_allday": {
+		"in": 0.01,
+		"mm": 0
+		},
+		"qpf_day": {
+		"in": 0.01,
+		"mm": 0
+		},
+		"qpf_night": {
+		"in": 0.00,
+		"mm": 0
+		},
+		"snow_allday": {
+		"in": 0.0,
+		"cm": 0.0
+		},
+		"snow_day": {
+		"in": 0.0,
+		"cm": 0.0
+		},
+		"snow_night": {
+		"in": 0.0,
+		"cm": 0.0
+		},
+		"maxwind": {
+		"mph": 15,
+		"kph": 24,
+		"dir": "ESE",
+		"degrees": 102
+		},
+		"avewind": {
+		"mph": 12,
+		"kph": 19,
+		"dir": "ESE",
+		"degrees": 102
+		},
+		"avehumidity": 67,
+		"maxhumidity": 0,
+		"minhumidity": 0
+		}
+		,
+		{"date":{
+	"epoch":"1456614000",
+	"pretty":"7:00 PM AST on February 27, 2016",
+	"day":27,
+	"month":2,
+	"year":2016,
+	"yday":57,
+	"hour":19,
+	"min":"00",
+	"sec":0,
+	"isdst":"0",
+	"monthname":"February",
+	"monthname_short":"Feb",
+	"weekday_short":"Sat",
+	"weekday":"Saturday",
+	"ampm":"PM",
+	"tz_short":"AST",
+	"tz_long":"America/Puerto_Rico"
+},
+		"period":6,
+		"high": {
+		"fahrenheit":"84",
+		"celsius":"29"
+		},
+		"low": {
+		"fahrenheit":"72",
+		"celsius":"22"
+		},
+		"conditions":"Clear",
+		"icon":"clear",
+		"icon_url":"http://icons.wxug.com/i/c/k/clear.gif",
+		"skyicon":"",
+		"pop":10,
+		"qpf_allday": {
+		"in": 0.00,
+		"mm": 0
+		},
+		"qpf_day": {
+		"in": 0.00,
+		"mm": 0
+		},
+		"qpf_night": {
+		"in": 0.00,
+		"mm": 0
+		},
+		"snow_allday": {
+		"in": 0.0,
+		"cm": 0.0
+		},
+		"snow_day": {
+		"in": 0.0,
+		"cm": 0.0
+		},
+		"snow_night": {
+		"in": 0.0,
+		"cm": 0.0
+		},
+		"maxwind": {
+		"mph": 15,
+		"kph": 24,
+		"dir": "ESE",
+		"degrees": 109
+		},
+		"avewind": {
+		"mph": 12,
+		"kph": 19,
+		"dir": "ESE",
+		"degrees": 109
+		},
+		"avehumidity": 65,
+		"maxhumidity": 0,
+		"minhumidity": 0
+		}
+		,
+		{"date":{
+	"epoch":"1456700400",
+	"pretty":"7:00 PM AST on February 28, 2016",
+	"day":28,
+	"month":2,
+	"year":2016,
+	"yday":58,
+	"hour":19,
+	"min":"00",
+	"sec":0,
+	"isdst":"0",
+	"monthname":"February",
+	"monthname_short":"Feb",
+	"weekday_short":"Sun",
+	"weekday":"Sunday",
+	"ampm":"PM",
+	"tz_short":"AST",
+	"tz_long":"America/Puerto_Rico"
+},
+		"period":7,
+		"high": {
+		"fahrenheit":"85",
+		"celsius":"29"
+		},
+		"low": {
+		"fahrenheit":"72",
+		"celsius":"22"
+		},
+		"conditions":"Clear",
+		"icon":"clear",
+		"icon_url":"http://icons.wxug.com/i/c/k/clear.gif",
+		"skyicon":"",
+		"pop":10,
+		"qpf_allday": {
+		"in": 0.00,
+		"mm": 0
+		},
+		"qpf_day": {
+		"in": 0.00,
+		"mm": 0
+		},
+		"qpf_night": {
+		"in": 0.00,
+		"mm": 0
+		},
+		"snow_allday": {
+		"in": 0.0,
+		"cm": 0.0
+		},
+		"snow_day": {
+		"in": 0.0,
+		"cm": 0.0
+		},
+		"snow_night": {
+		"in": 0.0,
+		"cm": 0.0
+		},
+		"maxwind": {
+		"mph": 15,
+		"kph": 24,
+		"dir": "ESE",
+		"degrees": 103
+		},
+		"avewind": {
+		"mph": 11,
+		"kph": 18,
+		"dir": "ESE",
+		"degrees": 103
+		},
+		"avehumidity": 67,
+		"maxhumidity": 0,
+		"minhumidity": 0
+		}
+		,
+		{"date":{
+	"epoch":"1456786800",
+	"pretty":"7:00 PM AST on February 29, 2016",
+	"day":29,
+	"month":2,
+	"year":2016,
+	"yday":59,
+	"hour":19,
+	"min":"00",
+	"sec":0,
+	"isdst":"0",
+	"monthname":"February",
+	"monthname_short":"Feb",
+	"weekday_short":"Mon",
+	"weekday":"Monday",
+	"ampm":"PM",
+	"tz_short":"AST",
+	"tz_long":"America/Puerto_Rico"
+},
+		"period":8,
+		"high": {
+		"fahrenheit":"84",
+		"celsius":"29"
+		},
+		"low": {
+		"fahrenheit":"72",
+		"celsius":"22"
+		},
+		"conditions":"Clear",
+		"icon":"clear",
+		"icon_url":"http://icons.wxug.com/i/c/k/clear.gif",
+		"skyicon":"",
+		"pop":20,
+		"qpf_allday": {
+		"in": 0.00,
+		"mm": 0
+		},
+		"qpf_day": {
+		"in": 0.00,
+		"mm": 0
+		},
+		"qpf_night": {
+		"in": 0.00,
+		"mm": 0
+		},
+		"snow_allday": {
+		"in": 0.0,
+		"cm": 0.0
+		},
+		"snow_day": {
+		"in": 0.0,
+		"cm": 0.0
+		},
+		"snow_night": {
+		"in": 0.0,
+		"cm": 0.0
+		},
+		"maxwind": {
+		"mph": 15,
+		"kph": 24,
+		"dir": "E",
+		"degrees": 96
+		},
+		"avewind": {
+		"mph": 10,
+		"kph": 16,
+		"dir": "E",
+		"degrees": 96
+		},
+		"avehumidity": 71,
+		"maxhumidity": 0,
+		"minhumidity": 0
+		}
+		,
+		{"date":{
+	"epoch":"1456873200",
+	"pretty":"7:00 PM AST on March 01, 2016",
+	"day":1,
+	"month":3,
+	"year":2016,
+	"yday":60,
+	"hour":19,
+	"min":"00",
+	"sec":0,
+	"isdst":"0",
+	"monthname":"March",
+	"monthname_short":"Mar",
+	"weekday_short":"Tue",
+	"weekday":"Tuesday",
+	"ampm":"PM",
+	"tz_short":"AST",
+	"tz_long":"America/Puerto_Rico"
+},
+		"period":9,
+		"high": {
+		"fahrenheit":"84",
+		"celsius":"29"
+		},
+		"low": {
+		"fahrenheit":"73",
+		"celsius":"23"
+		},
+		"conditions":"Clear",
+		"icon":"clear",
+		"icon_url":"http://icons.wxug.com/i/c/k/clear.gif",
+		"skyicon":"",
+		"pop":20,
+		"qpf_allday": {
+		"in": 0.00,
+		"mm": 0
+		},
+		"qpf_day": {
+		"in": 0.00,
+		"mm": 0
+		},
+		"qpf_night": {
+		"in": 0.00,
+		"mm": 0
+		},
+		"snow_allday": {
+		"in": 0.0,
+		"cm": 0.0
+		},
+		"snow_day": {
+		"in": 0.0,
+		"cm": 0.0
+		},
+		"snow_night": {
+		"in": 0.0,
+		"cm": 0.0
+		},
+		"maxwind": {
+		"mph": 15,
+		"kph": 24,
+		"dir": "ENE",
+		"degrees": 72
+		},
+		"avewind": {
+		"mph": 12,
+		"kph": 19,
+		"dir": "ENE",
+		"degrees": 72
+		},
+		"avehumidity": 71,
+		"maxhumidity": 0,
+		"minhumidity": 0
+		}
+		,
+		{"date":{
+	"epoch":"1456959600",
+	"pretty":"7:00 PM AST on March 02, 2016",
+	"day":2,
+	"month":3,
+	"year":2016,
+	"yday":61,
+	"hour":19,
+	"min":"00",
+	"sec":0,
+	"isdst":"0",
+	"monthname":"March",
+	"monthname_short":"Mar",
+	"weekday_short":"Wed",
+	"weekday":"Wednesday",
+	"ampm":"PM",
+	"tz_short":"AST",
+	"tz_long":"America/Puerto_Rico"
+},
+		"period":10,
+		"high": {
+		"fahrenheit":"84",
+		"celsius":"29"
+		},
+		"low": {
+		"fahrenheit":"72",
+		"celsius":"22"
+		},
+		"conditions":"Chance of Rain",
+		"icon":"chancerain",
+		"icon_url":"http://icons.wxug.com/i/c/k/chancerain.gif",
+		"skyicon":"",
+		"pop":40,
+		"qpf_allday": {
+		"in": 0.03,
+		"mm": 1
+		},
+		"qpf_day": {
+		"in": 0.02,
+		"mm": 1
+		},
+		"qpf_night": {
+		"in": 0.01,
+		"mm": 0
+		},
+		"snow_allday": {
+		"in": 0.0,
+		"cm": 0.0
+		},
+		"snow_day": {
+		"in": 0.0,
+		"cm": 0.0
+		},
+		"snow_night": {
+		"in": 0.0,
+		"cm": 0.0
+		},
+		"maxwind": {
+		"mph": 15,
+		"kph": 24,
+		"dir": "ENE",
+		"degrees": 73
+		},
+		"avewind": {
+		"mph": 12,
+		"kph": 19,
+		"dir": "ENE",
+		"degrees": 73
+		},
+		"avehumidity": 71,
+		"maxhumidity": 0,
+		"minhumidity": 0
+		}
+		]
+		}
+	}
+}
